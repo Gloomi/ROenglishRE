@@ -4,12 +4,24 @@
 	<servicetype>korea</servicetype>
 	<servertype>primary</servertype>
 	<connection>
-		<display>Local</display>
-      		<address>127.0.0.1</address>
-      		<port>6900</port>
-      		<version>55</version>
-      		<langtype>0</langtype>
-		<registrationweb>www.ragnarok.com</registrationweb>
+		<display>Skuld Ragnarok Online</display>
+		<desc>Ragnarok Online</desc>
+      	<address>35.198.231.198</address>
+      	<port>6900</port>
+      	<version>55</version>
+      	<langtype>1</langtype>
+		<registrationweb>http://35.196.117.50/cp/</registrationweb>
+		<yellow>
+			<admin>2000001</admin>
+			<admin>2000002</admin>
+			<admin>2000003</admin>
+			<admin>2000004</admin>
+			<admin>2000005</admin>
+			<admin>2000006</admin>
+			<admin>2000007</admin>
+			<admin>2000008</admin>
+			<admin>2000009</admin>
+		</yellow>
 		<loading>
 			<image>loading00.jpg</image>
 			<image>loading01.jpg</image>
@@ -18,6 +30,10 @@
 			<image>loading04.jpg</image>
 			<image>loading05.jpg</image>
 			<image>loading06.jpg</image>
+			<image>loading07.jpg</image>
+			<image>loading08.jpg</image>
+			<image>loading09.jpg</image>
+			<image>loading10.jpg</image>
 		</loading>
    	</connection>
 </clientinfo>
