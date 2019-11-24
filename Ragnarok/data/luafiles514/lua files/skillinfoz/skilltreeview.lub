@@ -1163,3 +1163,13 @@ SKILL_TREEVIEW_FOR_JOB = {
 		[32] = SKID.SP_SOULEXPLOSION
 	}
 }
+JobSkillTab.ChangeSkillTabName(JOBID.JT_NOVICE, "1st", "2nd", "3rd")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_NINJA, "1st", "2nd")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_GUNSLINGER, "1st", "2nd")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_SUPERNOVICE, "Novice", "Super Novice")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_TAEKWON, "1st", "2nd", "3rd")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_STAR, "1st", "2nd", "3rd")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_LINKER, "1st", "2nd", "3rd")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_STAR2, "1st", "2nd", "3rd")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_DO_SUMMONER, "Summoner")
+JobSkillTab.ChangeSkillTabName(JOBID.JT_DO_SUMMONER_B, "Summoner")
